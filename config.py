@@ -1,9 +1,10 @@
-BOT_TOKEN = ""
-API_ID =    
-API_HASH =""
-ADMINS = []
-OWNER_ID = 
-LOG_CHANNEL =
+BOT_TOKEN = "7894004417:AAE5pBTBZYnnydBJiIE5y23naxPnJUqP7BU"
+API_ID = 23479156   
+API_HASH ="8bca5043e6fc023aaa8b3a20a410e2d5"
+ADMINS = [t.me/Avigat1210]
+OWNER_ID = @Avigat1210
+LOG_CHANNEL =https://t.me/Sachin4Sharma1210
+
 
 
 
